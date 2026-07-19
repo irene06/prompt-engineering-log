@@ -1,4 +1,4 @@
-# Evaluación: Simulación sin matices personales (v2)
+# Evaluación: Simulacion de charla filosofica sobre aliens y demonios sin matices personales (v2)
 **Fecha:** 2026-07-18
 **Modelos:** ChatGPT (GPT-4o) vs. Claude (Sonnet 3.5)
 
